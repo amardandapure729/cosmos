@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+server/cosmos.db*
+server/uploads/*
+!server/uploads/.gitkeep
+*.log
+tsconfig.tsbuildinfo
